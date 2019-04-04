@@ -1,0 +1,35 @@
+  *{
+   margin: 0;
+   padding:0;
+  }
+  .bg{
+	  background: url(../img/3.jpg)no-repeat;
+	  position: fixed;
+	  top: 0;
+	  left: 0;
+	  width: 100%;
+	  height: 100%;
+	  min-width: 1000px;
+	  background-size: cover;
+  }
+  .word{
+	  width: 100%;
+	  height: auto;
+	  margin-top: 13%;
+  }
+  p {
+   font:  78px "楷体";
+   line-height: 88px;
+   color: darkslategray;
+   text-align: center;
+   background: linear-gradient(to bottom,gray,purple); 
+   -webkit-text-fill-color: transparent;
+   -webkit-background-clip: text; 
+   
+  }
+  span {
+   color: red;
+  }
+  p span.time {
+   color:  darkslategray;
+  }
