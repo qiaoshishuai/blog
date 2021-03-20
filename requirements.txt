@@ -6,7 +6,7 @@ django-haystack==2.6.1
 future==0.16.0
 idna==2.5
 jieba==0.38
-Jinja2==2.9.6
+Jinja2==2.11.3
 lxml==3.8.0
 Markdown==2.6.9
 MarkupSafe==1.0
